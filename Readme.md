@@ -11,7 +11,7 @@
 ### 2. Análisis de sentimientos, detección de tópico, análisis de intención
 - [Jupyter Notebook - Preprocesamiento de Texto](/HW2%20Analisis%20de%20sentimientos/main.ipynb)
 
-- [Reporte I - Preprocesamiento de texto](/HW2%20Analisis%20de%20sentimientos/Reporte%202.pdf)
+- [Reporte II - Preprocesamiento de texto](/HW2%20Analisis%20de%20sentimientos/Reporte%202.pdf)
 
 ### 3. Predicción en base de datos
 
