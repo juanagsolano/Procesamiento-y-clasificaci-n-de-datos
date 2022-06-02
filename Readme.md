@@ -14,6 +14,9 @@
 - [Reporte II - Preprocesamiento de texto](/HW2%20Analisis%20de%20sentimientos/Reporte%202.pdf)
 
 ### 3. Predicción en base de datos
+- [Jupyter Notebook - Predicción en bases de datos](/HW3%20Prediccion%20en%20Bases%20de%20Datos/main.ipynb)
+
+- [Reporte III - Predicción en bases de datos](/HW3%20Prediccion%20en%20Bases%20de%20Datos/Reporte%203.pdf)
 
 ### 4. Mini Proyecto I
 
