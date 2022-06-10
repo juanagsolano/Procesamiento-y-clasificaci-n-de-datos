@@ -20,6 +20,9 @@
 
 ### 4. Mini Proyecto I
 
+- [Jupyter Notebook - Mini Proyecto 1](/Mini%20Project%201/main.ipynb)
+- [Presentacion - MiniProyecto](/Mini%20Project%201/MiniProyecto1.pptx)
+
 ## ETAPA 2: Análisis de imágenes
 
 ### 5. Manipulación básica de imágenes. Contrastes, kernels, máscaras, ruido, compresión y descompresión
