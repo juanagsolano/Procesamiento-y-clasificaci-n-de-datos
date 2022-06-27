@@ -27,6 +27,9 @@
 
 ### 5. Manipulación básica de imágenes. Contrastes, kernels, máscaras, ruido, compresión y descompresión
 
+- [Jupyter Notebook - Procesamiento de imagenes](/HW4%20Procesamiento%20de%20imagen/main.ipynb)
+- [Reporte - Formato PDF](/HW4%20Procesamiento%20de%20imagen/export/hw4%20Procesamiento%20de%20imagenes.pdf)
+
 ### 6. Redes neuronales, regresión y otras técnicas
 
 ### 7. K-means, kernels y el uso de segmentación para reconocimiento de objetos
