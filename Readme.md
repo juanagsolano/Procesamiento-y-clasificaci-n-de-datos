@@ -37,8 +37,8 @@
 
 ### 7. Transfer learning
 
-- [Jupyter Notebook - Redes Neuronales Convolucionales]()
-- [Reporte - Formato HTML]()
+- [Jupyter Notebook - Transfer Learning](/HW6%20Transfer%20learning/transfer.ipynb)
+- [Reporte - Formato HTML](/HW6%20Transfer%20learning/transfer.html)
 
 ### 8. Mini Proyecto
 
