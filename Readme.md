@@ -32,7 +32,13 @@
 
 ### 6. Redes neuronales, regresión y otras técnicas
 
-### 7. K-means, kernels y el uso de segmentación para reconocimiento de objetos
+- [Jupyter Notebook - Redes Neuronales Convolucionales](/HW5%20Redes%20Convolucionales/main.ipynb)
+- [Reporte - Formato HTML](/HW5%20Redes%20Convolucionales/main.html)
+
+### 7. Transfer learning
+
+- [Jupyter Notebook - Redes Neuronales Convolucionales]()
+- [Reporte - Formato HTML]()
 
 ### 8. Mini Proyecto
 
