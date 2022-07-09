@@ -33,12 +33,12 @@
 ### 6. Redes neuronales, regresión y otras técnicas
 
 - [Jupyter Notebook - Redes Neuronales Convolucionales](/HW5%20Redes%20Convolucionales/main.ipynb)
-- [Reporte - Formato HTML](/HW5%20Redes%20Convolucionales/main.html)
+- [Reporte - Formato PDF](/HW5%20Redes%20Convolucionales/clasificador.pdf)
 
 ### 7. Transfer learning
 
 - [Jupyter Notebook - Transfer Learning](/HW6%20Transfer%20learning/transfer.ipynb)
-- [Reporte - Formato HTML](/HW6%20Transfer%20learning/transfer.html)
+- [Reporte - Formato PDF](/HW6%20Transfer%20learning/transfer.pdf)
 
 ### 8. Mini Proyecto
 
