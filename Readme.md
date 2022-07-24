@@ -48,17 +48,14 @@
 ### Entrega 1
 
 - [Jupyter Notebook - Proyecto Final Entrega 1](/Proyecto%20Final/main.ipynb)
-- [Jupyter Notebook PDF - Proyecto Final Entrega 1](/Proyecto%20Final/Notebook%20Proyecto%20Final%20-%20Entrega%201.pdf)
 - [Reporte PDF - Proyecto Final Entrega 1](/Proyecto%20Final/Proyecto%20Final%20-%20Entrega%201.pdf)
 
 ### Entrega 2
 
 - [Jupyter Notebook - Proyecto Final Entrega 2](/Proyecto%20Final/main2.ipynb)
-- [Jupyter Notebook PDF - Proyecto Final Entrega 2](/Proyecto%20Final/Notebook%20Proyecto%20Final%20-%20Entrega%202.pdf)
 - [Reporte PDF - Proyecto Final Entrega 2](/Proyecto%20Final/Proyecto%20Final%20-%20Entrega%202.pdf)
 
 ### Entrega Final
 
 - [Jupyter Notebook - Proyecto Final](/Proyecto%20Final/main2.ipynb)
-- [Jupyter Notebook PDF - Proyecto Final](/Proyecto%20Final/Notebook%20Proyecto%20Final%20-%20Entrega%202.pdf)
 - [Reporte PDF - Proyecto Final](/Proyecto%20Final/Proyecto%20Final%20-%20Entrega%201.pdf)
