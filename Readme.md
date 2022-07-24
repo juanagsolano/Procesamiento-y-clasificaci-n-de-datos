@@ -42,6 +42,7 @@
 
 ### 8. Mini Proyecto
 
+
 ## ETAPA 3: Análisis de sonido
 
 ### 9. Cargar archivos, normalización de los datos, recortar o modificar datos, segmentación.
@@ -53,3 +54,18 @@
 ### 12. Mini Proyecto
 
 ## Proyecto Final
+
+### Entrega 1
+
+- [Jupyter Notebook - Proyecto Final Entrega 1](/Proyecto%20Final/main.ipynb)
+- [Reporte PDF - Proyecto Final Entrega 1](/Proyecto%20Final/Proyecto%20Final%20-%20Entrega%201.pdf)
+
+### Entrega 2
+
+- [Jupyter Notebook - Proyecto Final Entrega 2](/Proyecto%20Final/main.ipynb)
+- [Reporte PDF - Proyecto Final Entrega 2](/Proyecto%20Final/Proyecto%20Final%20-%20Entrega%201.pdf)
+
+### Entrega Final
+
+- [Jupyter Notebook - Proyecto Final Entrega 2](/Proyecto%20Final/main.ipynb)
+- [Reporte PDF - Proyecto Final Entrega 2](/Proyecto%20Final/Proyecto%20Final%20-%20Entrega%201.pdf)
