@@ -15,7 +15,6 @@
 
 ### 3. Predicción en base de datos
 - [Jupyter Notebook - Predicción en bases de datos](/HW3%20Prediccion%20en%20Bases%20de%20Datos/main.ipynb)
-
 - [Reporte III - Predicción en bases de datos](/HW3%20Prediccion%20en%20Bases%20de%20Datos/Reporte%203.pdf)
 
 ### 4. Mini Proyecto I
@@ -40,32 +39,26 @@
 - [Jupyter Notebook - Transfer Learning](/HW6%20Transfer%20learning/transfer.ipynb)
 - [Reporte - Formato PDF](/HW6%20Transfer%20learning/transfer.pdf)
 
-### 8. Mini Proyecto
-
-
 ## ETAPA 3: Análisis de sonido
 
-### 9. Cargar archivos, normalización de los datos, recortar o modificar datos, segmentación.
-
-### 10. Reconocimiento de voz, herramientas de audio a texto, análisis de sentimiento
-
-### 11. Clasificación
-
-### 12. Mini Proyecto
+### 8. Análisis de Sonido
 
 ## Proyecto Final
 
 ### Entrega 1
 
 - [Jupyter Notebook - Proyecto Final Entrega 1](/Proyecto%20Final/main.ipynb)
+- [Jupyter Notebook PDF - Proyecto Final Entrega 1](/Proyecto%20Final/Notebook%20Proyecto%20Final%20-%20Entrega%201.pdf)
 - [Reporte PDF - Proyecto Final Entrega 1](/Proyecto%20Final/Proyecto%20Final%20-%20Entrega%201.pdf)
 
 ### Entrega 2
 
-- [Jupyter Notebook - Proyecto Final Entrega 2](/Proyecto%20Final/main.ipynb)
+- [Jupyter Notebook - Proyecto Final Entrega 2](/Proyecto%20Final/main2.ipynb)
+- [Jupyter Notebook PDF - Proyecto Final Entrega 2](/Proyecto%20Final/Notebook%20Proyecto%20Final%20-%20Entrega%202.pdf)
 - [Reporte PDF - Proyecto Final Entrega 2](/Proyecto%20Final/Proyecto%20Final%20-%20Entrega%201.pdf)
 
 ### Entrega Final
 
-- [Jupyter Notebook - Proyecto Final Entrega 2](/Proyecto%20Final/main.ipynb)
-- [Reporte PDF - Proyecto Final Entrega 2](/Proyecto%20Final/Proyecto%20Final%20-%20Entrega%201.pdf)
+- [Jupyter Notebook - Proyecto Final](/Proyecto%20Final/main2.ipynb)
+- [Jupyter Notebook PDF - Proyecto Final](/Proyecto%20Final/Notebook%20Proyecto%20Final%20-%20Entrega%202.pdf)
+- [Reporte PDF - Proyecto Final](/Proyecto%20Final/Proyecto%20Final%20-%20Entrega%201.pdf)
