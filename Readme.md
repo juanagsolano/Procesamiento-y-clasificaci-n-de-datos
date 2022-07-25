@@ -58,4 +58,4 @@
 ### Entrega Final
 
 - [Jupyter Notebook - Proyecto Final](/Proyecto%20Final/main2.ipynb)
-- [Reporte PDF - Proyecto Final](/Proyecto%20Final/Proyecto%20Final%20-%20Entrega%201.pdf)
+- [Reporte PDF - Proyecto Final](/Proyecto%20Final/Proyecto%20Final.pdf)
