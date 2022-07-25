@@ -43,7 +43,7 @@
 
 ### 8. Análisis de Sonido
 
-- [Jupyter Notebook - Transfer Learning](/HW8%20Analisis%20de%20Sonido/Analisis_de_Sonido.ipynb)
+- [Jupyter Notebook - Analisis de Sonido](/HW8%20Analisis%20de%20Sonido/Analisis_de_Sonido.ipynb)
 - [Reporte - Formato PDF](/HW8%20Analisis%20de%20Sonido/Analisis_de_Sonido.pdf)
 
 ## Proyecto Final
